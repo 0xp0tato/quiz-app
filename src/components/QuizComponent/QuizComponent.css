@@ -1,0 +1,58 @@
+.question-section{
+    height: 50rem;
+    width: 50rem;
+    border: 2px solid beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.question-number{
+    font-size: 3rem;
+    color: beige;
+    margin: 20px;
+}
+
+.question-text{
+    font-size: 5rem;
+    margin-top: -10rem;
+    color: beige;
+    text-align: center;
+}
+
+.answers{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
+
+.answers button{
+    font-size: 50px;
+    margin: 10px 50px;
+    color: beige;
+    background-color: #242422;
+    border-radius: 50px;
+}
+
+.score{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.score p{
+    font-size: 50px;
+    color: beige;
+}
+
+.score button{
+    font-size: 40px;
+    color: beige;
+    background-color: #242422;
+    border-radius: 50px;
+    height: 4em;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+}

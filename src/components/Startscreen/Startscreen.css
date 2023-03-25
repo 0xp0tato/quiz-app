@@ -1,0 +1,29 @@
+.startscreen{
+    height: auto;
+    width: 30vw;
+    border: 2px solid beige;
+    text-align: center;
+}
+
+.quiz-title{
+    font-size: 50px;
+    color: beige;
+    margin-top: 2rem;
+}
+
+.quiz-description{
+    font-size: 27px;
+    margin: 50px;
+}
+
+.quiz-start-button{
+    color: beige;
+    background-color: #242422;
+    border-radius: 50px;
+    height: 3em;
+    width: 8em;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 2rem;
+}
