@@ -12,3 +12,13 @@ A Quiz Appliaction created using ReactJS
 3. A Quiz Result Screen where the user will see their results.
 
 ––– A simple UI showing the user’s score on the quiz.
+
+Future Updates
+
+1. Create Timer
+
+--- A timer to make the quiz time bound. The user will have to complete the quiz in the given time.
+
+2. Mobile Approach
+
+--- Update the UI for mobile and smartphones so that user will be able to take quiz on their smartphones.
